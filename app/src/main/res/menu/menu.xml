@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/navigation_songs"
+        android:icon="@drawable/bac"
+        android:title="Back"/>
+
+    <item
+        android:id="@+id/navigation_albums"
+        android:icon="@drawable/email"
+        android:title="Email"/>
+
+    <item
+        android:id="@+id/navigation_artists"
+        android:icon="@drawable/baseline_password_24"
+        android:title="PW"/>
+
+</menu>
